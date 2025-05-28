@@ -1,0 +1,17 @@
+1. Struktur Data itu adalah cara menyimpan dan mengatur data dalam komputer
+2. kegunaannya itu untuk mencari elemen dalam data, dan mengatur data
+3. Jenis-jenis data:
+   1. Array
+   2. List
+   3. Stack
+   4. Queue
+4. Array adalah kumpulan tipe data yang sama yang disimpan 
+   dalam memory yang berurutan. Kegunaan Array adalah Akses
+   data sangat cepat, menyimpan data, pengolahan data
+5. Contoh Array: 
+   angka = [10, 20, 30, 40, 50]
+   print("Array angka:", angka)
+   print("Elemen pertama:", angka[0])
+6. Bahasa yang saya bisa adalah pyhton:
+   nilai = [15, 20, 25, 30]
+   print("Nilai:", nilai) 
